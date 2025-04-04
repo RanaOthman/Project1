@@ -181,6 +181,7 @@ body{
     background-color: white;
     color: black;
     text-align: center;
+    margin-top: 20px;
 }
 .sec1-btn2{
     height: 35px;
@@ -228,7 +229,7 @@ body{
     margin-left: -80px;
     margin-top: 10px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec2-items{
     width: 80%;
@@ -394,7 +395,7 @@ body{
     margin-left: -80px;
     margin-top: 10px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec3-new_collection{
     margin: auto;
@@ -739,7 +740,7 @@ body{
     margin-left: -80px;
     margin-top: 10px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec4-content{
     width: 85%;
@@ -786,7 +787,7 @@ body{
 .sec4-item1::after{
     content: '';
     position: absolute;
-    background-color: rgb(247, 247, 174);
+    background-color: rgb(248, 239, 223);
     top: 0;
     left: 0;
     width: 0;
@@ -847,7 +848,7 @@ body{
 .sec4-item2::after{
     content: '';
     position: absolute;
-    background-color: rgb(247, 247, 174);
+    background-color: rgb(248, 239, 223);
     top: 0;
     left: 0;
     width: 0;
@@ -909,7 +910,7 @@ body{
 .sec4-item3::after{
     content: '';
     position: absolute;
-    background-color: rgb(247, 247, 174);
+    background-color: rgb(248, 239, 223);
     top: 0;
     left: 0;
     width: 0;
@@ -978,7 +979,7 @@ body{
 .sec4-item4::after{
     content: '';
     position: absolute;
-    background-color: rgb(247, 247, 174);
+    background-color: rgb(248, 239, 223);
     top: 0;
     left: 0;
     width: 0;
@@ -1039,7 +1040,7 @@ body{
 .sec4-item5::after{
     content: '';
     position: absolute;
-    background-color: rgb(247, 247, 174);
+    background-color: rgb(248, 239, 223);
     top: 0;
     left: 0;
     width: 0;
@@ -1100,7 +1101,7 @@ body{
 .sec4-item6::after{
     content: '';
     position: absolute;
-    background-color: rgb(247, 247, 174);
+    background-color: rgb(248, 239, 223);
     top: 0;
     left: 0;
     width: 0;
@@ -1159,7 +1160,7 @@ body{
     margin-left: 5px;
     margin-top: 5px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec5-text{
     width: 50%;
@@ -1297,7 +1298,7 @@ body{
     margin-left: -50px;
     margin-top: 8px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec7-tables{
     position: absolute;
@@ -1595,7 +1596,7 @@ body{
     margin-left: -50px;
     margin-top: 8px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec9-teams{
     width: 80%;
@@ -1867,7 +1868,7 @@ body{
     margin-left: -50px;
     margin-top: 8px;
     position: absolute;
-    background-color: black;
+    background-color: rgb(158, 118, 15);
 }
 .sec10-item1{
     width: 250px;
